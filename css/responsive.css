@@ -1,0 +1,352 @@
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+ 
+ /* CSS starts */
+
+     /* Global css code start */
+
+    .container{
+      width: 95%;
+      margin: 0px auto;
+    }
+
+    .row{
+      width: 100%;
+      float: left;
+
+    }
+
+    .col-6{
+      width:  100%;
+      float: left;
+      
+    }
+
+    .col-4{
+      width: 100%;
+      float: left;
+      
+    }
+
+
+    /* Global css code end */
+
+    .header{
+        text-align: center;
+      }
+
+    .navber{
+      text-align: center;
+
+
+    }
+
+
+    .navber li a{
+
+      font-size: 12px;
+      line-height: 1.3em;
+      margin: 10px 0px 0px 13px;
+
+    }
+
+    .banner{
+      text-align: center;
+      padding: 40px 0px;
+    }
+
+    .banner h1{
+      font-size: 25px;
+    
+
+    }
+    .banner p{
+
+      font-size: 12px;
+      
+    }
+
+
+
+    .project .left-project{
+      text-align: center;
+     }
+
+
+    .project .left-project h1{
+      
+      font-size: 25px;
+      margin: 0px 0px 20px 0px;
+    }
+    
+    .project .left-project p {
+    font-size: 12px;
+   
+    margin: 0px 0px 20px 0px;
+
+  }
+
+
+    .project .right-project{
+      text-align: center;
+    }
+
+    .project .right-project h1{
+      font-size: 25px;
+       margin: 0px 0px 20px 0px;
+    }
+
+
+    .inner-feture{
+  
+    margin: 0px 20px 35px;
+
+  }
+  
+
+
+ /* CSS ends */
+  
+}
+
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS start */
+
+
+    /* Global css code start */
+
+    .container{
+      width: 95%;
+      margin: 0px auto;
+    }
+
+    .row{
+      width: 100%;
+      float: left;
+
+    }
+
+    .col-6{
+      width:  100%;
+      float: left;
+      
+    }
+
+    .col-4{
+      width: 100%;
+      float: left;
+      
+    }
+
+
+    /* Global css code end */
+
+    .header{
+        text-align: center;
+      }
+
+    .navber{
+      text-align: center;
+
+
+    }
+
+
+    .navber li a{
+
+      font-size: 13px;
+      margin: 10px 0px 0px 25px;
+
+    }
+
+    .banner{
+      text-align: center;
+      padding: 50px 0px;
+    }
+
+    .banner h1{
+      font-size: 30px;
+    
+
+    }
+    .banner p{
+
+      font-size: 13px;
+      
+    }
+
+
+
+    .project .left-project{
+      text-align: center;
+     }
+
+
+    .project .left-project h1{
+      
+      font-size: 30px;
+      margin: 0px 0px 20px 0px;
+    }
+    
+    .project .left-project p {
+    font-size: 13px;
+   
+    margin: 0px 0px 20px 0px;
+
+    }
+
+
+    .project .right-project{
+      text-align: center;
+    }
+
+    .project .right-project h1{
+      font-size: 30px;
+       margin: 0px 0px 20px 0px;
+    }
+
+
+    .inner-feture{
+  
+   
+    margin: 0px 35px 35px;
+
+    }
+  
+
+  /* CSS end */
+  
+}
+
+
+
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  /* CSS start */
+
+    /* Global css code start */
+
+    .container{
+      width: 95%;
+      margin: 0px auto;
+    }
+
+    .row{
+      width: 100%;
+      float: left;
+
+    }
+
+    .col-6{
+      width:  100%;
+      float: left;
+      
+    }
+
+    .col-4{
+      width: 100%;
+      float: left;
+      
+    }
+
+
+    /* Global css code end */
+
+    .header{
+        text-align: center;
+      }
+
+    .navber{
+      text-align: center;
+
+
+    }
+
+
+    .navber li a{
+
+      font-size: 13px;
+      margin: 20px 0px 0px 50px;
+
+    }
+
+    .banner{
+      text-align: center;
+      padding: 50px 0px;
+    }
+
+    .banner h1{
+      font-size: 40px;
+    
+
+    }
+    
+    .banner p{
+
+      font-size: 13px;
+      
+    }
+
+
+
+    .project .left-project{
+      text-align: center;
+     }
+
+
+    .project .left-project h1{
+      
+      font-size: 40px;
+      margin: 0px 0px 20px 0px;
+    }
+    
+    .project .left-project p {
+
+
+     font-size: 13px;
+     margin: 0px 0px 20px 0px;
+
+    }
+
+
+    .project .right-project{
+      text-align: center;
+    }
+
+    .project .right-project h1{
+      font-size: 40px;
+       margin: 0px 0px 20px 0px;
+    }
+
+
+  .inner-feture{
+    
+    width: 90%;
+    margin: 0px 0px 35px;
+
+  }
+  
+
+
+  /* CSS end */
+  
+}
+
